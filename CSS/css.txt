@@ -1,0 +1,5 @@
+Static - not affected by tblr prop/values
+relative - tblr values element to be moved from its normal position
+absolute - positioned relative to its parent elemt that is positioned "relative"
+fixed - pr to the viewport
+sticky - p based on scroll p
