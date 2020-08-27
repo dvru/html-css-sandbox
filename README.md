@@ -1,6 +1,5 @@
 # Overview
 
-- How Websites Work
 - HTML5 Semantic Layout
 - CSS Fundamentals
 - Responsive Design With Media Queries
