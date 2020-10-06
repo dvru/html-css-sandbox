@@ -27,6 +27,15 @@ p {
     margin: 10px 0;
 }
 
+
+/* Utility classes */
+.container {
+    margin: auto;
+    max-width: 1100px;
+    overflow: auto;
+    padding: 0 20px;
+}
+
 /* Navbar */
 #navbar {
     background: #333;
