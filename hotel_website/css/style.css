@@ -40,6 +40,25 @@ p {
     color: #f7c08a;
 }
 
+.lead {
+    font-size: 20px;;
+}
+
+.btn {
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    background: #333; 
+    padding: 13px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #f7c08a;
+    color: #333;
+}
+
 /* Navbar */
 #navbar {
     background: #333;
@@ -93,4 +112,9 @@ p {
 #showcase .showcase-content h1 {
     font-size: 60px;
     line-height: 1.2em;
+}
+
+#showcase .showcase-content p {
+    padding-bottom: 20px;
+    line-height: 1.7em;
 }
