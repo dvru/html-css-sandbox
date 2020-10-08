@@ -215,6 +215,17 @@ p {
     min-height: 100%;
 }
 
+/* Testimonials */
+#testimonials {
+    height: 600px;
+    background: url('../img/test-bg.jpg') no-repeat
+    center center/cover;
+    padding-top: 40px;
+}
+
+#testimonials .testimonial img {
+    width: 100px;
+}
 
 /* use clear to override float for padding */
 /* Footer */
