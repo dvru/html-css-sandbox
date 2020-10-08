@@ -220,7 +220,7 @@ p {
     height: 600px;
     background: url('../img/test-bg.jpg') no-repeat
     center center/cover;
-    padding-top: 40px;
+    padding-top: 100px;
 }
 
 #testimonials h2 {
