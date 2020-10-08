@@ -74,9 +74,9 @@ p {
     color: #333;
 }
 
-.btn-primary {
-    background: #333;
-    color: #f7c08a;
+.bg-primary {
+    background: #f7c08a;
+    color: #333;
 }
 
 
@@ -169,3 +169,13 @@ p {
 }
 
 /* Features Section */
+.box {
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    text-align: center;
+}
+
+.box i {
+    margin-bottom: 10px;
+}
