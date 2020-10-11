@@ -1,4 +1,4 @@
-/* Reset */
+Reset */
 
 /* Grab everything */
 * {
@@ -280,4 +280,5 @@ p {
     color: #fff;
     padding: 20px;
 }
-/* use clear to override float for padding */
+/* use clear to override float for padding
+
